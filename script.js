@@ -1,7 +1,7 @@
 function selectProfile(name){
   document.getElementById("profileSelect").style.display="none";
   document.getElementById("welcomeScreen").classList.remove("hidden");
-  document.getElementById("welcomeText").innerText="Welcome back, "+name+"!";
+  document.getElementById("welcomeText").innerText="selamat menuju salting, "+name+"!";
 }
 
 function enterAbout(){
