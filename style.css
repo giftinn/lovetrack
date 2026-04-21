@@ -121,10 +121,19 @@ body{
   font-size:12px;
 }
 
-.about-text{
-  line-height:1.7;
-  opacity:0.9;
-  margin-bottom:20px;
+.about-text {
+  line-height: 1.7;
+  opacity: 0.9;
+  margin-bottom: 20px;
+  -webkit-overflow-scrolling: touch;
+  max-height: 100px;
+  overflow-y: auto;
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE */
+}
+
+.about-text::-webkit-scrollbar {
+  display: none;                /* Chrome, Safari */
 }
 
 .about-btn{
@@ -245,6 +254,12 @@ body{
   max-height:40vh;
   overflow-y:auto;
   white-space:pre-line;
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE */
+}
+
+.about-text::-webkit-scrollbar {
+  display: none;                /* Chrome, Safari */
 }
 
 .playlist-btn{
