@@ -21,18 +21,12 @@ function goToLetter(){
   startTyping();
 }
 
-const text = `Today is all about you, your journey, your dreams, and everything that makes you who you are. I hope this year brings you closer to the life you’ve been quietly wishing for. I hope the things you’ve been working hard for finally start falling into place.
+const text = `
+Makasih ya? Makasih udah mau nemenin aku sampai detik ini juga, aku bersyukur bertemu kamu. Kamu tau? disetiap langkah atau harimu selalu penuh warna karna kamu itu indah, biarlah kamu bilang kamu "ngga sempurna" tapi dimataku kamu jauh lebih sempurna. Sayang, jangan ragu untuk cerita atau apapun itu ya? Karna aku always disini buat dengerin kamu, buat nemenin kamu disaat susah dan senang.
 
-I hope opportunities find you at the right time. I hope your efforts are rewarded. I hope every goal you set feels more reachable than ever before. And when things feel overwhelming, I hope you’re reminded of how capable and strong you truly are.
+Kadang Terbesit dipikiran aku, kenapa kamu bisa sebucin ini sama aku but disisi lain aku juga senang. Aku senang banget mendapatkan cinta kamu seutuhnya, makasih ya?  Aku lega tau kamu udah ngga ada perasaan apapun ke mantanmu dan makasih ya? Udah klarifikasi disetiap keributan kita 😭😭😭 ☝🏼
 
-I hope this year is gentle with you. I hope you wake up feeling excited about what’s ahead. I hope you find happiness in small, ordinary days. You deserve to see how amazing you are, not just on your birthday, but every single day.
-
-If there’s anything I wish for you, it’s peace. The kind of peace that makes your heart feel calm. I hope you laugh freely, sleep peacefully, and wake up feeling excited about your life. I hope stress fades quicker, and happiness stays longer. And on the days when things feel heavy, I hope you remember how strong and capable you truly are.
-
-Keep being soft. Keep being kind. Keep being you. The world is better because you’re in it.
-
-Happy sweet 17, my pretty girl.
-May this year love you as much as you deserve. 🤍
+Bulan aja kalah indahnya sama kamu, jangan lupa untuk jaga diri kamu sendiri ya? Utamakan diri kamu lalu orang lain, karna aku ngga mau kamu terluka atau apapun itu. Aku sayang abang, aku ngga mau Abang sampai kenapa-kenapa. Abang sayang aku ngga pernah menyesal bertemu Abang ❤️❤️ i love you so muchh
 `;
 
 let i = 0;
